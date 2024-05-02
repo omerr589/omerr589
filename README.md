@@ -1,6 +1,6 @@
 <!-- Başlık -->
 # Hello, I'm Ömer Faruk Yılmaz 👋
-<img src="[http://www.semihduran.com/wp-content/uploads/2014/12/asp_net.png](https://fontawesome.com/icons/github?f=brands&s=solid)"  alt="github" width="38">
+<img src="[https://fontawesome.com/icons/github?f=brands&s=solid]"  alt="github" width="38">
 <!-- Hakkımda -->
 ## About Me
 I'm a Backend Developer based in Kocaeli, Turkey. I specialize in C# and MSSQL, with a focus on Entity Framework, API management, and IoC. Currently pursuing a master's degree in Computer Engineering at Gebze Technical University. Formerly led the software team at Kapsul Rover Team.
