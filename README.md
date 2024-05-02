@@ -2,7 +2,7 @@
 # Hello, I'm Ömer Faruk Yılmaz 👋
 
 <!-- Profil Resmi -->
-<img src="https://github.com/your_username.png" alt="Your Name" width="100">
+<img src="https://github.com/omerr589.png" alt="Your Name" width="100">
 
 <!-- Hakkımda -->
 ## About Me
