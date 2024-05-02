@@ -41,7 +41,7 @@ I'm a Backend Developer based in Kocaeli, Turkey. I specialize in C# and MSSQL, 
 <!-- İletişim -->
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/omerr589
-- Email: mailto:o.faruk0542@gmail.com
+- Email: o.faruk0542@gmail.com
 
 
 <!--
