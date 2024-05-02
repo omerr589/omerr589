@@ -9,14 +9,16 @@ I'm a Backend Developer based in Kocaeli, Turkey. I specialize in C# and MSSQL, 
   
 ### Experience
 #### Backend Developer 
-- [Nov 2022 - Present] Working on ERP application development.
+- [Nov 2022 - Present]
+- Working on ERP application development.
 - Developing a new ERP solution using C# and MSSQL.
 
 #### Intern
-- [July 2022 - September 2022] Worked on projects involving autonomous driving and path planning algorithms.
+- [July 2022 - September 2022]
+- Worked on projects involving autonomous driving and path planning algorithms.
 
-#### Part-Time
-- [Dec 2020 - July 2022] Developed indicator-based algorithmic trading robots using the Binance API. Provided training and consultancy on ROS to Teknofest competition teams.
+#### Part-Time - [Dec 2020 - July 2022]
+- Developed indicator-based algorithmic trading robots using the Binance API. Provided training and consultancy on ROS to Teknofest competition teams.
 
 
 ## Projects
