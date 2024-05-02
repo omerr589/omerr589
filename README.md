@@ -1,6 +1,5 @@
 <!-- Başlık -->
 # Hello, I'm Ömer Faruk Yılmaz 👋
-(https://fontawesome.com/icons/github?f=brands&s=solid)
 <img src="[http://www.semihduran.com/wp-content/uploads/2014/12/asp_net.png](https://fontawesome.com/icons/github?f=brands&s=solid)"  alt="github" width="38">
 <!-- Hakkımda -->
 ## About Me
