@@ -9,8 +9,6 @@ I'm a Backend Developer based in Kocaeli, Turkey. I specialize in C# and MSSQL, 
   ![Git](https://img.shields.io/badge/-Git-lightgrey) ![ROS](https://img.shields.io/badge/-ROS-lightgrey) ![Gazebo](https://img.shields.io/badge/-Gazebo-lightgrey) ![Rviz](https://img.shields.io/badge/-Rviz-lightgrey)
 - **Frameworks:** 
   ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-brightgreen) ![OOP](https://img.shields.io/badge/-OOP-brightgreen) ![API Management](https://img.shields.io/badge/-API_Management-brightgreen)
-- **Abilities:** 
-  ![Algorithmic Thinking](https://img.shields.io/badge/-Algorithmic_Thinking-yellowgreen) ![Teamwork](https://img.shields.io/badge/-Teamwork-yellowgreen) ![Creativity](https://img.shields.io/badge/-Creativity-yellowgreen)
 
 ## Experience
 ### Birinci Automotive - Kocaeli (Backend Developer) 
