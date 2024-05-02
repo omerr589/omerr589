@@ -3,6 +3,8 @@
 I'm a Backend Developer based in Kocaeli, Turkey. I specialize in C# and MSSQL, with a focus on Entity Framework, API management, and IoC. Currently pursuing a master's degree in Computer Engineering at Gebze Technical University. Formerly led the software team at Kapsul Rover Team.
 
 
+![test](https://fontawesome.com/icons/github?f=brands&s=solid)
+
 ## Skills
 - **Languages & Technologies:** 
   ![C#](https://img.shields.io/badge/-C%23-blue) ![MSSQL](https://img.shields.io/badge/-MSSQL-blue) ![C++](https://img.shields.io/badge/-C%2B%2B-blue) ![Python](https://img.shields.io/badge/-Python-blue) ![Java](https://img.shields.io/badge/-Java-blue) ![HTML](https://img.shields.io/badge/-HTML-blue) ![CSS](https://img.shields.io/badge/-CSS-blue)
