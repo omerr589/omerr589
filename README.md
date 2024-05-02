@@ -1,6 +1,7 @@
 <!-- Başlık -->
 # Hello, I'm Ömer Faruk Yılmaz 👋
 (https://fontawesome.com/icons/github?f=brands&s=solid)
+<img href="https://fontawesome.com/icons/github?f=brands&s=solid"/>
 <!-- Hakkımda -->
 ## About Me
 I'm a Backend Developer based in Kocaeli, Turkey. I specialize in C# and MSSQL, with a focus on Entity Framework, API management, and IoC. Currently pursuing a master's degree in Computer Engineering at Gebze Technical University. Formerly led the software team at Kapsul Rover Team.
