@@ -15,7 +15,7 @@ I'm a Backend Developer based in Kocaeli, Turkey. I specialize in C# and MSSQL, 
 ### Birfen Electronic - Yalova (Intern)
 - [July 2022 - September 2022] Worked on projects involving autonomous driving and path planning algorithms with Professor Alparslan Burak İnner.
 
-### Konya Kapsul Technology Platform (Part-Time)
+### Kapsul Technology Platform (Part-Time)
 - [Dec 2020 - July 2022] Developed indicator-based algorithmic trading robots using the Binance API. Provided training and consultancy on ROS to Teknofest competition teams.
 
 <!-- Yetenekler -->
