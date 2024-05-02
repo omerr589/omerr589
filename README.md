@@ -3,13 +3,10 @@
 I'm a Backend Developer based in Kocaeli, Turkey. I specialize in C# and MSSQL, with a focus on Entity Framework, API management, and IoC. Currently pursuing a master's degree in Computer Engineering at Gebze Technical University. Formerly led the software team at Kapsul Rover Team.
 
 ## Skills
-- **Languages & Technologies:** 
-  ![C#]() ![MSSQL](https://img.shields.io/badge/-MSSQL-blue) ![C++](https://img.shields.io/badge/-C%2B%2B-blue) ![Python](https://img.shields.io/badge/-Python-blue) ![Java](https://img.shields.io/badge/-Java-blue) ![HTML](https://img.shields.io/badge/-HTML-blue) ![CSS](https://img.shields.io/badge/-CSS-blue)
-- **Tools:** 
-  ![Git](https://img.shields.io/badge/-Git-lightgrey) ![ROS](https://img.shields.io/badge/-ROS-lightgrey) ![Gazebo](https://img.shields.io/badge/-Gazebo-lightgrey) ![Rviz](https://img.shields.io/badge/-Rviz-lightgrey)
-- **Frameworks:** 
-  ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-brightgreen) ![OOP](https://img.shields.io/badge/-OOP-brightgreen) ![API Management](https://img.shields.io/badge/-API_Management-brightgreen)
-
+- **Languages & Technologies:** C#, MSSQL, C++, Python, Java, HTML, CSS
+- **Tools:** Git, ROS, Gazebo, Rviz
+- **Frameworks:** Entity Framework, OOP, API Management
+  
 ## Experience
 ### Birinci Automotive - Kocaeli (Backend Developer) 
 - [Nov 2022 - Present] Working on ERP application development.
