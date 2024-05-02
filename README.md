@@ -1,12 +1,20 @@
-<!-- Başlık -->
 # Hello, I'm Ömer Faruk Yılmaz 👋
-<!-- Hakkımda -->
+!https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png
 ## About Me
 I'm a Backend Developer based in Kocaeli, Turkey. I specialize in C# and MSSQL, with a focus on Entity Framework, API management, and IoC. Currently pursuing a master's degree in Computer Engineering at Gebze Technical University. Formerly led the software team at Kapsul Rover Team.
 
-<!-- Deneyimler -->
-## Experience
 
+## Skills
+- **Languages & Technologies:** 
+  ![C#](https://img.shields.io/badge/-C%23-blue) ![MSSQL](https://img.shields.io/badge/-MSSQL-blue) ![C++](https://img.shields.io/badge/-C%2B%2B-blue) ![Python](https://img.shields.io/badge/-Python-blue) ![Java](https://img.shields.io/badge/-Java-blue) ![HTML](https://img.shields.io/badge/-HTML-blue) ![CSS](https://img.shields.io/badge/-CSS-blue)
+- **Tools:** 
+  ![Git](https://img.shields.io/badge/-Git-lightgrey) ![ROS](https://img.shields.io/badge/-ROS-lightgrey) ![Gazebo](https://img.shields.io/badge/-Gazebo-lightgrey) ![Rviz](https://img.shields.io/badge/-Rviz-lightgrey)
+- **Frameworks:** 
+  ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-brightgreen) ![OOP](https://img.shields.io/badge/-OOP-brightgreen) ![API Management](https://img.shields.io/badge/-API_Management-brightgreen)
+- **Abilities:** 
+  ![Algorithmic Thinking](https://img.shields.io/badge/-Algorithmic_Thinking-yellowgreen) ![Teamwork](https://img.shields.io/badge/-Teamwork-yellowgreen) ![Creativity](https://img.shields.io/badge/-Creativity-yellowgreen)
+
+## Experience
 ### Birinci Automotive - Kocaeli (Backend Developer) 
 - [Nov 2022 - Present] Working on ERP application development.
 - Developing a new ERP solution using C# and MSSQL.
@@ -18,26 +26,13 @@ I'm a Backend Developer based in Kocaeli, Turkey. I specialize in C# and MSSQL, 
 ### Kapsul Technology Platform (Part-Time)
 - [Dec 2020 - July 2022] Developed indicator-based algorithmic trading robots using the Binance API. Provided training and consultancy on ROS to Teknofest competition teams.
 
-<!-- Yetenekler -->
-## Skills
-- **Languages & Technologies:** 
-  ![C#](https://img.shields.io/badge/-C%23-blue) ![MSSQL](https://img.shields.io/badge/-MSSQL-blue) ![C++](https://img.shields.io/badge/-C%2B%2B-blue) ![Python](https://img.shields.io/badge/-Python-blue) ![Java](https://img.shields.io/badge/-Java-blue) ![HTML](https://img.shields.io/badge/-HTML-blue) ![CSS](https://img.shields.io/badge/-CSS-blue)
-- **Tools:** 
-  ![Git](https://img.shields.io/badge/-Git-lightgrey) ![ROS](https://img.shields.io/badge/-ROS-lightgrey) ![Gazebo](https://img.shields.io/badge/-Gazebo-lightgrey) ![Rviz](https://img.shields.io/badge/-Rviz-lightgrey)
-- **Frameworks:** 
-  ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-brightgreen) ![OOP](https://img.shields.io/badge/-OOP-brightgreen) ![API Management](https://img.shields.io/badge/-API_Management-brightgreen)
-- **Abilities:** 
-  ![Algorithmic Thinking](https://img.shields.io/badge/-Algorithmic_Thinking-yellowgreen) ![Teamwork](https://img.shields.io/badge/-Teamwork-yellowgreen) ![Creativity](https://img.shields.io/badge/-Creativity-yellowgreen)
 
-<i class="fa-brands fa-github"></i> 
-<!-- Projeler -->
 ## Projects
 ### Rover Project
 - Led the software team at Kapsul Rover Team.
 - Developed a fully autonomous rover for international competitions.
 - Enhanced skills in Python, ROS, Gazebo simulation, and teamwork.
 
-<!-- İletişim -->
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/omerr589
 - Email: o.faruk0542@gmail.com
