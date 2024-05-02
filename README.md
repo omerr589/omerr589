@@ -30,7 +30,7 @@ I'm a Backend Developer based in Kocaeli, Turkey. I specialize in C# and MSSQL, 
 - **Abilities:** 
   ![Algorithmic Thinking](https://img.shields.io/badge/-Algorithmic_Thinking-yellowgreen) ![Teamwork](https://img.shields.io/badge/-Teamwork-yellowgreen) ![Creativity](https://img.shields.io/badge/-Creativity-yellowgreen)
 
-
+<i class="fa-brands fa-github"></i> 
 <!-- Projeler -->
 ## Projects
 ### Rover Project
@@ -40,7 +40,7 @@ I'm a Backend Developer based in Kocaeli, Turkey. I specialize in C# and MSSQL, 
 
 <!-- İletişim -->
 ## Contact
-- GitHub: <i class="fa-brands fa-github"></i> (https://github.com/omerr589)
+- GitHub: (https://github.com/omerr589)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/omerr589)
 - Email: [Your Email Address](mailto:o.faruk0542@gmail.com)
 
