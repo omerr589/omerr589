@@ -8,15 +8,14 @@ I'm a Backend Developer based in Kocaeli, Turkey. I specialize in C# and MSSQL, 
 - **Frameworks:** Entity Framework, OOP, API Management
   
 ### Experience
-#### Birinci Automotive - Kocaeli (Backend Developer) 
+#### Backend Developer 
 - [Nov 2022 - Present] Working on ERP application development.
 - Developing a new ERP solution using C# and MSSQL.
-- Targeting to launch the updated version by the first half of 2024.
 
-#### Birfen Electronic - Yalova (Intern)
-- [July 2022 - September 2022] Worked on projects involving autonomous driving and path planning algorithms with Professor Alparslan Burak İnner.
+#### Intern
+- [July 2022 - September 2022] Worked on projects involving autonomous driving and path planning algorithms.
 
-#### Kapsul Technology Platform (Part-Time)
+#### Part-Time
 - [Dec 2020 - July 2022] Developed indicator-based algorithmic trading robots using the Binance API. Provided training and consultancy on ROS to Teknofest competition teams.
 
 
