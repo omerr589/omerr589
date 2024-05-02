@@ -8,7 +8,7 @@ I'm a Backend Developer based in Kocaeli, Turkey. I specialize in C# and MSSQL, 
 <!-- Deneyimler -->
 ## Experience
 
-### Birinci Automotive - Kocaeli (Backend Developer)
+### Birinci Automotive - Kocaeli (Backend Developer) 
 - [Nov 2022 - Present] Working on ERP application development.
 - Developing a new ERP solution using C# and MSSQL.
 - Targeting to launch the updated version by the first half of 2024.
@@ -21,10 +21,15 @@ I'm a Backend Developer based in Kocaeli, Turkey. I specialize in C# and MSSQL, 
 
 <!-- Yetenekler -->
 ## Skills
-- **Languages & Technologies:** C#, MSSQL, C++, Python, Java, HTML, CSS
-- **Tools:** Git, ROS, Gazebo, Rviz
-- **Frameworks:** Entity Framework, OOP, API Management
-- **Abilities:** Algorithmic Thinking, Teamwork, Creativity
+- **Languages & Technologies:** 
+  ![C#](https://img.shields.io/badge/-C%23-blue) ![MSSQL](https://img.shields.io/badge/-MSSQL-blue) ![C++](https://img.shields.io/badge/-C%2B%2B-blue) ![Python](https://img.shields.io/badge/-Python-blue) ![Java](https://img.shields.io/badge/-Java-blue) ![HTML](https://img.shields.io/badge/-HTML-blue) ![CSS](https://img.shields.io/badge/-CSS-blue)
+- **Tools:** 
+  ![Git](https://img.shields.io/badge/-Git-lightgrey) ![ROS](https://img.shields.io/badge/-ROS-lightgrey) ![Gazebo](https://img.shields.io/badge/-Gazebo-lightgrey) ![Rviz](https://img.shields.io/badge/-Rviz-lightgrey)
+- **Frameworks:** 
+  ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-brightgreen) ![OOP](https://img.shields.io/badge/-OOP-brightgreen) ![API Management](https://img.shields.io/badge/-API_Management-brightgreen)
+- **Abilities:** 
+  ![Algorithmic Thinking](https://img.shields.io/badge/-Algorithmic_Thinking-yellowgreen) ![Teamwork](https://img.shields.io/badge/-Teamwork-yellowgreen) ![Creativity](https://img.shields.io/badge/-Creativity-yellowgreen)
+
 
 <!-- Projeler -->
 ## Projects
