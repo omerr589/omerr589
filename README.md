@@ -4,7 +4,7 @@ I'm a Backend Developer based in Kocaeli, Turkey. I specialize in C# and MSSQL, 
 
 ## Skills
 - **Languages & Technologies:** 
-  ![C#](https://img.shields.io/badge/-C%23-blue) ![MSSQL](https://img.shields.io/badge/-MSSQL-blue) ![C++](https://img.shields.io/badge/-C%2B%2B-blue) ![Python](https://img.shields.io/badge/-Python-blue) ![Java](https://img.shields.io/badge/-Java-blue) ![HTML](https://img.shields.io/badge/-HTML-blue) ![CSS](https://img.shields.io/badge/-CSS-blue)
+  ![C#](https://cdn.worldvectorlogo.com/logos/c--4.svg) ![MSSQL](https://img.shields.io/badge/-MSSQL-blue) ![C++](https://img.shields.io/badge/-C%2B%2B-blue) ![Python](https://img.shields.io/badge/-Python-blue) ![Java](https://img.shields.io/badge/-Java-blue) ![HTML](https://img.shields.io/badge/-HTML-blue) ![CSS](https://img.shields.io/badge/-CSS-blue)
 - **Tools:** 
   ![Git](https://img.shields.io/badge/-Git-lightgrey) ![ROS](https://img.shields.io/badge/-ROS-lightgrey) ![Gazebo](https://img.shields.io/badge/-Gazebo-lightgrey) ![Rviz](https://img.shields.io/badge/-Rviz-lightgrey)
 - **Frameworks:** 
